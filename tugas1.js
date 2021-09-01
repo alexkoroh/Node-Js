@@ -1,4 +1,5 @@
 
+// Coba nanti non liat kembali rumus kira2 su betul blm...
 
 pembulatan = (x, y) => {
     const v = x.toFixed()
