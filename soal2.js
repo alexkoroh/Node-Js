@@ -1,3 +1,9 @@
+
+
+
+
+// Created By: Alexander Koroh
+
 var s = '';
 
 for( var i = 10; i > 1; i--){
@@ -6,7 +12,7 @@ for( var i = 10; i > 1; i--){
     }
     s +='\n'
 }
-console.log(s);
+// console.log(s);
 var k ='';
 var no = 10;
 //-----------------------------------------------------------
@@ -22,4 +28,4 @@ for (var c = 1; c < 10 ; c++){
     k += '\n'
 }
 
-console.log(k);
+console.log(s + k);
