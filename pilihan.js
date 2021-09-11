@@ -1,3 +1,12 @@
+
+
+
+ // Created BY : Alexander Koroh  - MR-X
+
+
+// MENENTUKAN PIN PRESTASI
+
+
 const { rejects } = require("assert")
 const { resolve } = require("path")
 const readline = require(`readline`)
