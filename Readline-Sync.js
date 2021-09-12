@@ -1,3 +1,11 @@
+
+
+
+
+// Created By : Alexander Koroh
+
+
+
 const readline = require(`readline-sync`)
 
 const IP = parseFloat(readline.question("Masukan IP anda :"))
